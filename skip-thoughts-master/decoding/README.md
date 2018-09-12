@@ -113,3 +113,4 @@ In theory you can also backprop through the skip-thoughts encoder. The code curr
 ## Acknowledgements
 
 This code was built off of [arctic-captions](https://github.com/kelvinxu/arctic-captions) and Kyunghyun Cho's [dl4mt-material](https://github.com/kyunghyuncho/dl4mt-material). A big thanks to all those who contributed to these projects.
+
