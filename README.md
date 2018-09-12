@@ -20,5 +20,16 @@ wget http://www.cs.toronto.edu/~rkiros/models/btable.npy <br>
 wget http://www.cs.toronto.edu/~rkiros/models/uni_skip.npz<br>
 wget http://www.cs.toronto.edu/~rkiros/models/uni_skip.npz.pkl<br> 
 wget http://www.cs.toronto.edu/~rkiros/models/bi_skip.npz<br>
-wget http://www.cs.toronto.edu/~rkiros/models/bi_skip.npz.pkl<br>
+wget http://www.cs.toronto.edu/~rkiros/models/bi_skip.npz.pklc
+
+# How to use
+
+Download the whole project.<br>
+Download all the files specified above and keep them in the root directory.<br>
+Place your text in a .docx file.<br>
+Open and run the index file.<br>
+It will ask to input the file name. Input the file name without the file extension as e.g 'kiterunner'.<br>
+Now the code will takes a few minutes and will generate a summary file in the root folder.<br>
+
+--try to keep the input file size small not more than 500 words, or it will take a lot of time on a less powerful machine.<br>
 
