@@ -94,3 +94,4 @@ We are working on faster versions of skip-thoughts which can be trained in hours
 ## Acknowledgements
 
 This code was built off of [arctic-captions](https://github.com/kelvinxu/arctic-captions) and Kyunghyun Cho's [dl4mt-material](https://github.com/kyunghyuncho/dl4mt-material). A big thanks to all those who contributed to these projects.
+
