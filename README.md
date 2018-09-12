@@ -33,6 +33,6 @@ Now the code will takes a few minutes and will generate a summary file in the ro
 
 --try to keep the input file size small not more than 500 words, or it will take a lot of time on a less powerful machine.<br>
 
-REFRENCE
+REFERENCE<br>
 https://github.com/ryankiros/skip-thoughts
 
